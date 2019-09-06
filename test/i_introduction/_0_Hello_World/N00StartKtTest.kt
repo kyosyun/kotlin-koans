@@ -4,8 +4,10 @@ import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
 class N00StartKtTest {
+
     @Test
     fun testOk() {
         assertEquals("OK", task0())
     }
+
 }
